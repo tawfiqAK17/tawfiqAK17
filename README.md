@@ -19,17 +19,7 @@
 
 ## `$ whoami`
 
-Software engineering student at **ENSA Agadir** (graduating 2027), passionate about the intersection of low-level systems and practical applications. I enjoy building things from scratch — parsers, compressors, real-time apps — because the best way to understand something is to build it yourself.
-
-```rust
-struct Tawfiq {
-    location:  "Agadir, Morocco 🇲🇦",
-    education: "Software & Application Engineering @ ENSA Agadir",
-    interests: ["Systems Programming", "Algorithms", "Web Dev", "Dev Tools"],
-    languages: ["Arabic 🗣️", "English 🌍", "French 🇫🇷"],
-    currently: "Building things that are fast, correct, and understandable",
-}
-```
+Software engineering student at **ENSA Agadir** (2027), based in Morocco 🇲🇦. Passionate about low-level systems, algorithms, and building things from scratch — parsers, compressors, real-time apps. I like knowing how things work all the way down.
 
 ---
 
@@ -59,30 +49,17 @@ struct Tawfiq {
 
 ---
 
-## `$ cat ./projects`
+## `$ git stats`
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **🗂️ Classroom & Timetable Manager** | Spring Boot · React/TS · PostgreSQL · Docker | Weekly schedule editor, real-time occupancy, PDF/Excel export |
-| **🏃 Agile Project Management API** | Spring Boot | Sprints, epics, user stories · ABAC · real-time updates |
-| **🦀 CSV Query CLI** | Rust | Custom SQL-like language · Recursive descent parser · Zero-GC processing |
-| **💬 Chatter – Real-time Chat** | MERN · Socket.IO · JWT | Low-latency bidirectional messaging · Live presence indicators |
-| **🗺️ Shortest Path Visualizer** | C++ · SFML | Interactive grid · Dijkstra & BFS · Step-by-step visualization |
-| **🗜️ Huffman Encoder** | C++ | Lossless compression · Priority-queue binary tree · Custom bitstream encoder |
+<div align="center">
 
----
+![Tawfiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawfiqAK17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-## `$ cat ./concepts.txt`
+![GitHub Streak](https://streak-stats.demolab.com?user=tawfiqAK17&theme=tokyonight&hide_border=true)
 
-```
-Data Structures & Algorithms  ████████████████████  Expert
-System Programming            ███████████████░░░░░  Proficient  
-REST APIs                     ████████████████░░░░  Proficient
-Real-time Systems             ██████████████░░░░░░  Proficient
-Compiler / Parser Design      ████████████░░░░░░░░  Growing
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tawfiqAK17&layout=compact&theme=tokyonight&hide_border=true)
 
----
+</div>
 
 ## `$ cat ./certifications`
 
@@ -97,7 +74,7 @@ Compiler / Parser Design      ████████████░░░░�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tawfiq--akdir-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tawfiq-akdir)
 [![Email](https://img.shields.io/badge/Email-akdirtawfiq@gmail.com-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akdirtawfiq@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-tawfiqAK17-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/tawfiqAK17)
+[![Discord](https://img.shields.io/badge/Discord-TawfiQ-%235865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/1042055495332155442)
 
 ---
 
