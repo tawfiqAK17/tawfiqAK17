@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/test.gif?cache=20260407" align="right" width="120"/>
+<img src="./images/dancingMolecule.gif?cache=20260407" align="right" width="120"/>
 
 ```
 ████████╗ █████╗ ██╗    ██╗███████╗██╗ ██████╗
