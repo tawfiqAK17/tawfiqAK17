@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./images/dancingMolecule.gif?cache=20260407" align="right" width="120"/>
+
 ```
 ████████╗ █████╗ ██╗    ██╗███████╗██╗ ██████╗
 ╚══██╔══╝██╔══██╗██║    ██║██╔════╝██║██╔═══██╗
@@ -19,7 +21,7 @@
 
 ## `$ whoami`
 
-Software engineering student at **ENSA Agadir** (2027), based in Morocco 🇲🇦. Passionate about low-level systems, algorithms, and building things from scratch — parsers, compressors, real-time apps. I like knowing how things work all the way down.
+Software engineering student. Passionate about low-level systems, algorithms, and building things from scratch — parsers, compressors, real-time apps. I like knowing how things work all the way down.
 
 ---
 
@@ -79,3 +81,4 @@ Software engineering student at **ENSA Agadir** (2027), based in Morocco 🇲�
 ---
 
 *Always curious. Always building.*
+</div>
